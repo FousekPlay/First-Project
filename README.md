@@ -27,10 +27,10 @@ Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB.
 
 <h2> 📱Browser Mobile Panel </h2>
 <a aling="center">
-<img alt="Projeto WebLink" src=".github/mob-preview-night.jpeg" width="49%">
+<img alt="Projeto WebLink" src=".github/mob-preview-night.jpeg" width="47%">
 </a>
 <a aling="center">
-<img alt="Projeto WebLink" src=".github/mob-preview.jpeg" width="49%">
+<img alt="Projeto WebLink" src=".github/mob-preview.jpeg" width="47%">
 </a>
 
 
