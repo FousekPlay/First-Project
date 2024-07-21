@@ -11,7 +11,6 @@ Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB.
   <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-  
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
@@ -32,8 +31,6 @@ Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB.
 <a aling="center">
 <img alt="Projeto WebLink" src=".github/mob-preview.jpeg" width="47%">
 </a>
-
-
 
 ## 🚀 Tecnologias
 
